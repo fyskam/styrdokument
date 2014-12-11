@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.15 (TeX Live 2014) (preloaded format=pdflatex 2014.12.10)  11 DEC 2014 18:54
+This is pdfTeX, Version 3.14159265-2.6-1.40.15 (TeX Live 2014) (preloaded format=pdflatex 2014.12.10)  11 DEC 2014 22:27
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -430,7 +430,7 @@ e
 \Gin@req@height=\dimen109
 \Gin@req@width=\dimen110
 )
-(./titlesec.sty
+(/usr/local/texlive/2014/texmf-dist/tex/latex/titlesec/titlesec.sty
 Package: titlesec 2011/12/15 v2.10.0 Sectioning titles
 \ttl@box=\box27
 \beforetitleunit=\skip44
@@ -453,9 +453,15 @@ Package: titlesec 2011/12/15 v2.10.0 Sectioning titles
 \f@ncyO@olf=\skip53
 \f@ncyO@orf=\skip54
 )
-(./lastpage.sty
-Package: lastpage 1994/06/25 v0.1b LaTeX2e package for refs to last page number
- (JPG)
+(/usr/local/texlive/2014/texmf-dist/tex/latex/lastpage/lastpage.sty
+Package: lastpage 2013/01/28 v1.2l Refers to last page's name (HMM; JPG)
+Package lastpage Info: Please have a look at the pageslts package at
+(lastpage)             http://www.ctan.org/tex-archive/ 
+(lastpage)             macros/latex/contrib/pageslts/ 
+(lastpage)             or
+(lastpage)             http://www.ctan.org/tex-archive/ 
+(lastpage)             install/macros/latex/contrib/pageslts.tds.zip
+(lastpage)             ! on input line 120.
 )
 \AtBeginShipoutBox=\box28
 Package hyperref Info: Link coloring OFF on input line 10.
@@ -497,9 +503,9 @@ File: omscmr.fd 1999/05/25 v2.5h Standard LaTeX font definitions
 LaTeX Font Info:    Font shape `OMS/cmr/bx/n' in size <17.28> not available
 (Font)              Font shape `OMS/cmsy/b/n' tried instead on input line 14.
 
-Overfull \hbox (32.2646pt too wide) in paragraph at lines 16--20
-\OT1/cmr/m/n/12 gan-i-sa-tio-nens un-derf^^?oreningar, n^^?amder och pro-jekt. 
-Dessa h^^?anvisas forts^^?attningsvis
+Overfull \hbox (26.29015pt too wide) in paragraph at lines 16--20
+\OT1/cmr/m/n/12 Denna pol-icy g^^?aller Fysikums Kam-ratf^^?orening (FysKam) in
+klu-sive alla f^^?oreningens
  []
 
 LaTeX Font Info:    Font shape `OMS/cmr/bx/n' in size <14.4> not available
@@ -514,11 +520,12 @@ lighet och j^^?amlikhet
 
 [1{/usr/local/texlive/2014/texmf-var/fonts/map/pdftex/updmap/pdftex.map}
 
- <../resources/logga_600dpi.png>] AED: lastpage setting LastPage [2]
+ <../resources/logga_600dpi.png>] 
+AED: lastpage setting LastPage
+[2]
 Package atveryend Info: Empty hook `BeforeClearDocument' on input line 75.
 Package atveryend Info: Empty hook `AfterLastShipout' on input line 75.
-
-(./jämlikhetspolicy.aux)
+ (./jämlikhetspolicy.aux)
 Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 75.
 Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 75.
 Package rerunfilecheck Info: File `jämlikhetspolicy.out' has not changed.
@@ -526,10 +533,10 @@ Package rerunfilecheck Info: File `jämlikhetspolicy.out' has not changed.
 Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 75.
  ) 
 Here is how much of TeX's memory you used:
- 5688 strings out of 493117
- 82598 string characters out of 6135432
- 170500 words of memory out of 5000000
- 9103 multiletter control sequences out of 15000+600000
+ 5704 strings out of 493117
+ 83175 string characters out of 6135432
+ 171459 words of memory out of 5000000
+ 9117 multiletter control sequences out of 15000+600000
  7815 words of font info for 28 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  40i,10n,43p,245b,389s stack positions out of 5000i,500n,10000p,200000b,80000s
@@ -539,7 +546,7 @@ b></usr/local/texlive/2014/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb
 ></usr/local/texlive/2014/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb><
 /usr/local/texlive/2014/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></
 usr/local/texlive/2014/texmf-dist/fonts/type1/public/amsfonts/cm/cmti10.pfb>
-Output written on jämlikhetspolicy.pdf (2 pages, 346939 bytes).
+Output written on jämlikhetspolicy.pdf (2 pages, 346930 bytes).
 PDF statistics:
  72 PDF objects out of 1000 (max. 8388607)
  59 compressed objects within 1 object stream

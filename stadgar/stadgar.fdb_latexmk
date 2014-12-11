@@ -1,5 +1,5 @@
 # Fdb version 3
-["pdflatex"] 1418320717 "stadgar.tex" "stadgar.pdf" "stadgar" 1418320720
+["pdflatex"] 1418337018 "stadgar.tex" "stadgar.pdf" "stadgar" 1418337024
   "../resources/dgovdoc.cls" 1418320441 1494 8f804f0fa3fd6386bba703c4dceca8b0 ""
   "../resources/logga_600dpi.png" 1402497856 351165 eece2dbf9f06646c48689eeec36bc416 ""
   "/usr/local/texlive/2014/texmf-dist/tex/context/base/supp-pdf.mkii" 1337017135 71627 94eb9990bed73c364d7f53f960cc8c5b ""
@@ -36,11 +36,11 @@
   "/usr/local/texlive/2014/texmf-dist/tex/latex/pdftex-def/pdftex.def" 1306616590 55368 3c8a0d99822330f2dfabc0dfb09ce897 ""
   "/usr/local/texlive/2014/texmf-dist/tex/latex/titlesec/titlesec.sty" 1324083561 37083 54a2e11f0f208916a9976d9e4837d144 ""
   "/usr/local/texlive/2014/texmf-dist/tex/latex/url/url.sty" 1388531844 12796 8edb7d69a20b857904dd0ea757c14ec9 ""
-  "stadgar.aux" 1418320720 9834 812082ca6716515d55bafe0cc5f7df14 ""
-  "stadgar.out" 1418320720 4603 cd25868f073b42f7bbec8d6899d071c6 ""
-  "stadgar.tex" 1418320716 18312 ed313d41a3351681d05c0346455cd4da ""
+  "stadgar.aux" 1418337024 9834 812082ca6716515d55bafe0cc5f7df14 ""
+  "stadgar.out" 1418337024 4603 cd25868f073b42f7bbec8d6899d071c6 ""
+  "stadgar.tex" 1418337015 18194 cbc547d4c10367b3e78b0270fd810aed ""
   (generated)
-  "stadgar.aux"
-  "stadgar.out"
   "stadgar.pdf"
   "stadgar.log"
+  "stadgar.aux"
+  "stadgar.out"
