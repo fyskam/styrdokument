@@ -1,7 +1,6 @@
 
 \NeedsTeXFormat{LaTeX2e}[2001/01/01]
-\ProvidesClass{dgovdoc}
-              [2012/03/26 v0.1 Document Class for Konglig Datasektionen's governing documents]
+\ProvidesClass{../resources/dgovdoc}
 
 \DeclareOption*{\PassOptionsToClass{\CurrentOption}{article}}
 \ExecuteOptions{a4paper}
@@ -23,7 +22,6 @@
   \pagestyle{fancy}
   \fancyhf{}
   \renewcommand{\headrulewidth}{0pt}
-  \lhead{\itshape\footnotesize Fysikums Kamratförening}
   \chead{\itshape\footnotesize \@title~\today}
   \rhead{\itshape\footnotesize \thepage~(\pageref{LastPage})}
 }
@@ -36,7 +34,7 @@
 	\hspace{-2.5cm}
 	\begin{minipage}[b]{0.4\linewidth}
 		\center
-		\includegraphics[scale=0.25]{logga_600dpi.png}
+		\includegraphics[scale=0.25]{../resources/logga_600dpi.png}
 	\end{minipage}
 	\hspace{-1cm}
 	\begin{minipage}[b]{0.85\linewidth}
