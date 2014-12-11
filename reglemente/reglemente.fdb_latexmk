@@ -1,5 +1,5 @@
 # Fdb version 3
-["pdflatex"] 1418323714 "reglemente.tex" "reglemente.pdf" "reglemente" 1418323717
+["pdflatex"] 1418325259 "reglemente.tex" "reglemente.pdf" "reglemente" 1418325262
   "../resources/dgovdoc.cls" 1418320441 1494 8f804f0fa3fd6386bba703c4dceca8b0 ""
   "../resources/logga_600dpi.png" 1402497856 351165 eece2dbf9f06646c48689eeec36bc416 ""
   "/usr/local/texlive/2014/texmf-dist/tex/context/base/supp-pdf.mkii" 1337017135 71627 94eb9990bed73c364d7f53f960cc8c5b ""
@@ -36,11 +36,11 @@
   "/usr/local/texlive/2014/texmf-dist/tex/latex/pdftex-def/pdftex.def" 1306616590 55368 3c8a0d99822330f2dfabc0dfb09ce897 ""
   "/usr/local/texlive/2014/texmf-dist/tex/latex/titlesec/titlesec.sty" 1324083561 37083 54a2e11f0f208916a9976d9e4837d144 ""
   "/usr/local/texlive/2014/texmf-dist/tex/latex/url/url.sty" 1388531844 12796 8edb7d69a20b857904dd0ea757c14ec9 ""
-  "reglemente.aux" 1418323716 8622 cbd44d3762242cbaaeb57ca477487c5e ""
-  "reglemente.out" 1418323716 4306 cd33fb13315e30188d00513222f002fb ""
-  "reglemente.tex" 1418323705 14005 404465227a88ea7504325b2103c6e29b ""
+  "reglemente.aux" 1418325262 9072 334470764f20170818f162ba6eceb1bb ""
+  "reglemente.out" 1418325262 4325 864571fa15e824efdcba937a6fec1a8d ""
+  "reglemente.tex" 1418325255 14613 4ace796a42b63e65b3a8c9069437d138 ""
   (generated)
   "reglemente.pdf"
+  "reglemente.log"
   "reglemente.aux"
   "reglemente.out"
-  "reglemente.log"
